@@ -30,4 +30,4 @@ python manage.py runserver запустить серверную часть по
 1. Склонировать репозиторий на  компьютере: 
 
 
-   git clone https://github.com/Eduard6315/website_blog
+   git clone https://github.com/Eduard6315/blog_website
